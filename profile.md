@@ -9,4 +9,4 @@ Software engineering student at [Wethinkcode_](https://www.wethinkcode.co.za)
 *	Python
 *	HTML
 *	CSS3
-*	Javascript
+*	Javascript (Vuejs, Angularjs, Reactjs, Nodejs, Ionic)
