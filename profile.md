@@ -1,6 +1,6 @@
 # Kudakwashe Siziva
 
-Software engineering student at [https://www.wethinkcode.co.za] (Wethink code)
+Software engineering student at [Wethinkcode_](https://www.wethinkcode.co.za)
 
 ## I am good in the following languages
 
